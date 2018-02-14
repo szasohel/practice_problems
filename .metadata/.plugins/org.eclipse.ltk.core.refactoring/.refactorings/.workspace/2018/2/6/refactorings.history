@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Multiples of 3 and 5/Multiples of 3 and 5.py&apos;" deleteContents="false" description="Delete resource &apos;Multiples of 3 and 5/Multiples of 3 and 5.py&apos;" element1="/Multiples of 3 and 5/Multiples of 3 and 5.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1517781176984"/>
+</session>

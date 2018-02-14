@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Multiples of 3 and 5/Multiples of 3 and 5&apos; to &apos;Multiples of 3 and 5.py&apos;" description="Rename resource &apos;Multiples of 3 and 5&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Multiples of 3 and 5" name="Multiples of 3 and 5.py" stamp="1517781158487" updateReferences="true"/>
+</session>

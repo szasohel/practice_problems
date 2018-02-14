@@ -1,0 +1,17 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Sayed\python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Most Frequent Integer\com.python.pydev.analysis\v2_indexcache
+mfi|1518568281293296000|C:\Users\Sayed\python-workspace\Most Frequent Integer\mfi.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=mfi
+-- END DICTIONARY
+-- START TREE 1
+2
+a|1|a!11@
+mfi|1|mfi!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

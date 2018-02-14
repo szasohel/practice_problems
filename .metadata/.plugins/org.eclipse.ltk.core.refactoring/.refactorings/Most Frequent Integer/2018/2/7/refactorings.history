@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Most Frequent Integer/mfi&apos; to &apos;mfi.py&apos;" description="Rename resource &apos;mfi&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="mfi" name="mfi.py" stamp="1518567526802" updateReferences="true"/>
+</session>
